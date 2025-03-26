@@ -6,7 +6,7 @@ function About()
     return (
         <div>
             <h1>
-                My name is Harish Kumar
+                My name is Harish Kumar A
             </h1>
         </div>
     );
