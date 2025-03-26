@@ -22,11 +22,6 @@ function Skill()
                         Html
                     </td>
                 </tr>
-                <tr>
-                    <td>
-                        Java
-                    </td>
-                </tr>
             </table>
         </div>
     );
