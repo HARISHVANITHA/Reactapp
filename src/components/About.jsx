@@ -1,12 +1,14 @@
 import React from "react";
 import "./css/About.css";
+import "./css/Contact.css"; 
+
 
 function About()
 {
     return (
         <div>
             <h1>
-                My name is Harish Kumar A
+                Aptitude Guru hem 
             </h1>
         </div>
     );

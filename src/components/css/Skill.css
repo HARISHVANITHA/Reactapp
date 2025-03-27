@@ -1,0 +1,23 @@
+p{
+    font: size 64px ;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    text-align: center;
+    justify-content:center ;
+    margin: 100px;
+    .span__one{
+        border-bottom:red 2px solid;
+        margin-right: 10px;
+    }
+    .span__two{
+        border-bottom:blue 2px solid;
+        margin-right: 10px;
+    }
+}
+table{
+    text-align: center;
+    margin-left: 540px;
+   
+   
+   
+}
