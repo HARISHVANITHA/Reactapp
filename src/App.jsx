@@ -1,12 +1,13 @@
-import About from "./components/About"
-import Skill from "./components/Skill"
+import React from 'react';
+import About from './components/About';
+import Skill from './components/Skill';
 function App() {
 
 
   return (
       <div>
-        <About></About>
-        <Skill></Skill>
+        <About/>
+        <Skill/>
       </div>   
     
   )
