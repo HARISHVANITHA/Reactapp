@@ -3,6 +3,7 @@ p{
     font-family: 'Times New Roman', Times, serif;
     font-weight: 700;
     text-align: center;
+    flex-wrap: wrap;
     justify-content:center ;
     margin: 100px;
     .span__one{
@@ -20,4 +21,24 @@ table{
    
    
    
+}
+.p1{
+    font-family:'Times New Roman', Times, serif ;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+    flex-wrap: wrap;
+
+
+}
+.child{
+    position: relative;
+    margin-left: 420px;
+    margin-right: 10px;
+    background-color: black;
+    color: aqua;
+}
+.sec-child{
+    background-color: black;
+    color: aqua;
 }

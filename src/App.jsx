@@ -1,15 +1,16 @@
 import React from 'react';
 import About from './components/About';
-import Skill from './components/Skill';
 import Contact from './components/Contact';
+import Skill from './components/Skill';
 import Content from './components/Content';
 function App() {  
   return (
       <div>
         <About/>
-        <Skill/>
         <Contact/>
+        <Skill/>
         <Content/>
+        
       </div>   
     
   );  
