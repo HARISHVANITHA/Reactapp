@@ -4,20 +4,20 @@ function Skill()
     return (
 
         <div className="skill"> 
+        <h2>
+        At AGH, we shape futures and build skills that turn learning into success.
+        
+        </h2>
             <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et libero neque nobis aut repellat voluptate consectetur amet sed corrupti facere perspiciatis deleniti atque, sequi natus, cupiditate accusantium? Repellendus, labore molestias!
+            Where Success Meets Opportunity! Are you ready to embark on a transformative journey towards success? At Aptitude Guru Hem, we are committed to providing you with the essential skills and knowledge to excel in your professional endeavors. Our expert training in aptitude and coding equips you to conquer every challenge, from company interview assessments to prestigious coding platforms likeLeetCode,GeeksForGeeks ,HackerRank , and more. 
                 <span className="span__one">Leetcode,</span>
                 <span className="span__two"> HackerRank,</span>
-                <span className="span__one">Skillrack</span>
-                <p1>
-                   Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod autem dolorum eveniet id cupiditate, similique fugiat fuga numquam eum hic! Cumque temporibus perspiciatis corrupti ipsa possimus. Excepturi numquam ducimus expedita debitis consequuntur consectetur minima blanditiis, dignissimos obcaecati! Repellendus iusto ut incidunt molestiae, minima sit nisi, autem quia saepe omnis similique? ipsum dolor sit amet consectetur adipisicing elit. Ab, minima eaque aut cumque, incidunt molestias id provident molestiae obcaecati sequi quisquam facere numquam cum doloremque nam velit laboriosam harum omnis.
-                </p1>
-            
-            
+                <span className="span__one">GeeksForGeeks</span>
             </p>
             <div class ="parent">
                <button class="child">Start your learning</button> 
                <button class="sec-child">Join a live Demo</button>
+              
 
                 </div>
         </div>

@@ -3,14 +3,18 @@ import About from './components/About';
 import Contact from './components/Contact';
 import Skill from './components/Skill';
 import Content from './components/Content';
+import Trustby from './components/Trustby';
+import Footer from './components/Footer';
+
 function App() {  
   return (
       <div>
         <About/>
-        <Contact/>
         <Skill/>
+        <Contact/>
         <Content/>
-        
+        <Trustby/>
+        <Footer/>
       </div>   
     
   );  
