@@ -4,7 +4,9 @@ import Contact from './components/Contact';
 import Skill from './components/Skill';
 import Content from './components/Content';
 import Trustby from './components/Trustby';
+import OurPromise from './components/OurPromise'; 
 import Footer from './components/Footer';
+
 
 function App() {  
   return (
@@ -14,6 +16,7 @@ function App() {
         <Contact/>
         <Content/>
         <Trustby/>
+        <OurPromise/>
         <Footer/>
       </div>   
     
