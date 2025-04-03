@@ -6,6 +6,7 @@ import Content from './components/Content';
 import Trustby from './components/Trustby';
 import OurPromise from './components/OurPromise'; 
 import Footer from './components/Footer';
+import UserCase from './components/User-case';
 
 
 function App() {  
@@ -17,6 +18,7 @@ function App() {
         <Content/>
         <Trustby/>
         <OurPromise/>
+        <UserCase/>
         <Footer/>
       </div>   
     
